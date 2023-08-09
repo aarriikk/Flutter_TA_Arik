@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899951768926",
+    "firebase_url": "https://ndas-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ndas-project",
+    "storage_bucket": "ndas-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899951768926:android:7be20a63b65133287b4bcf",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899951768926-f0m6i6b9jpdg3u9smg3e12lmavqrptij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP96pPEu4wwy9kiyGj0hdTDAq-8veeFOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899951768926-f0m6i6b9jpdg3u9smg3e12lmavqrptij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
